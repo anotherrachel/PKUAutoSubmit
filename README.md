@@ -1,4 +1,4 @@
-# PKUAutoSubmit (modified)
+# PKUAutoSubmit
 
 **UPDATE 2020/10/18**
 
